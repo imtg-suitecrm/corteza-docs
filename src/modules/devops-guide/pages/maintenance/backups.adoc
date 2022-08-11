@@ -248,7 +248,7 @@ tar -cjf backup.tar.bz2 data/server/
 ----
 === Restore
 
-.Uncompromising files from the archive with the `tar` command:
+.Uncompressing files from the archive with the `tar` command:
 [source,bash]
 ----
 # This restores your backup.tar.bz2 archive
